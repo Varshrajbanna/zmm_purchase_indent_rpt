@@ -1,0 +1,4 @@
+@EndUserText.label: 'INDENT DEFINATION'
+define service ZMM_PURCHASE_INDENT_DEFINATION {
+  expose ZMM_PURCHASE_INDENT_CDS;
+}
